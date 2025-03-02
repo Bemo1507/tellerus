@@ -9,8 +9,11 @@ The global financial system faces several challenges, including limited accessib
 Our Team
 Teller_US is led by a team of seasoned professionals in blockchain development, finance, and global markets. Under the leadership of CEO Mr. Harun a.k.a Bemo, an expert in financial technologies and blockchain innovation, Teller_US Token aims to redefine decentralized finance by creating a secure, inclusive, and scalable ecosystem.
 
-Smart Contract Address: 0x745b28b60E1459687e6907dBF9c1685C2454A1Aa
+Smart Contract Address ERC20 : 0x745b28b60E1459687e6907dBF9c1685C2454A1Aa
 https://etherscan.io/token/0x745b28b60E1459687e6907dBF9c1685C2454A1Aa
+
+Smart contract BEP20 : 0x562b07E9f73Dabbc737Ec669f474B9516cD94D63
+https://bscscan.com/token/0x562b07e9f73dabbc737ec669f474b9516cd94d63
 
 twiter		: https://x.com/teller_us
 facebook	: https://www.facebook.com/TellerToken/
